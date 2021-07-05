@@ -5,4 +5,4 @@ A*
 HillClimb
 CSP Backtracking
 
-8 Puzzle game come is also included in the files
+8 Puzzle game code is also included in the files
